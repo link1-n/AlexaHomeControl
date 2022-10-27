@@ -4,8 +4,8 @@ import boto3
 import time
 import os
 
-access_key = "AKIAWNKT5B3IS54CWBEN"
-access_secret = "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"
+access_key = "########"
+access_secret = "################"
 region = "eu-west-1"
 queue_url = "https://sqs.eu-west-1.amazonaws.com/440946986705/RPiAlexa"
 
